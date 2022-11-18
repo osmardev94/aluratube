@@ -4,21 +4,21 @@
   "bg": "https://images.unsplash.com/photo-1573013043679-4d44547b78a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1854&q=80",
   "github": "osmardev94",
   "playlists": {
-    "jogos": [
+    "Dicas e Tutoriais": [
       {
-        "title": "Frostpunk - Neve e Steak tartare",
-        "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-        "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+        "title": "BEM VINDOS ao meu canal! Dev Robert, um Software Developer Engineer!",
+        "url": "https://youtu.be/zqrMg-IYlWI",
+        "thumb": "https://img.youtube.com/vi/zqrMg-IYlWI/hqdefault.jpg"
       },
       {
-        "title": "Gas Station Simulator - 8 dias sem dormir!",
-        "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-        "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+        "title": "A Pior Entrevista Tecnica da Minha Vida! Dicas de um Software Engineer Sobre Entrevistas Técnicas!",
+        "url": "https://youtu.be/YXi6hsKcxkE",
+        "thumb": "https://img.youtube.com/vi/YXi6hsKcxkE/hqdefault.jpg"
       },
       {
-        "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-        "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-        "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+        "title": "Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text",
+        "url": "https://youtu.be/sa-TUpSx1JA",
+        "thumb": "https://img.youtube.com/vi/sa-TUpSx1JA/hqdefault.jpg"
       },
       {
         "title": "Netdecking Estraga o Magic?",
@@ -26,9 +26,9 @@
         "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
       },
       {
-        "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-        "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-        "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+        "title": "Como CLONAR um site com o Figma",
+        "url": "https://youtu.be/wubEoB1P598",
+        "thumb": "https://img.youtube.com/vi/wubEoB1P598/hqdefault.jpg"
       },
       {
         "title": "We Were Here Together - Os Enigmas deste Mundo",
@@ -124,6 +124,68 @@
         "title": "O que é o C#? #HipstersPontoTube",
         "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
         "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ],
+    "música": [
+      {
+        "title": "Egberto Gismonti - Dança das Cabeças",
+        "url": "https://youtu.be/RI4uZ9J402U",
+        "thumb": "https://img.youtube.com/vi/RI4uZ9J402U/hqdefault.jpg"
+      },
+      {
+        "title": "Egberto Gismonti - Salvador - Heineken Concerts 99",
+        "url": "https://youtu.be/Sn9IsArgGXI",
+        "thumb": "https://img.youtube.com/vi/Sn9IsArgGXI/hqdefault.jpg"
+      },
+      {
+        "title": "Zeca Assumpção, Nando Carneiro e Jaques Morelenbaum - Vó Argemira - Heineken Concerts 99",
+        "url": "https://youtu.be/F3yy8tHufKM",
+        "thumb": "https://img.youtube.com/vi/F3yy8tHufKM/hqdefault.jpg"
+      },
+      {
+        "title": "Toninho Horta - Aquelas Coisas Todas",
+        "url": "https://youtu.be/w-ExOKDirwU",
+        "thumb": "https://img.youtube.com/vi/w-ExOKDirwU/hqdefault.jpg"
+      },
+      {
+        "title": "Tango in Blues - Leonardo Gallucci - S.Cortez Guitar",
+        "url": "https://youtu.be/eO_f--d6ocY",
+        "thumb": "https://img.youtube.com/vi/eO_f--d6ocY/hqdefault.jpg"
+      },
+      {
+        "title": "Pat Metheny Group Phase Dancer Live, 1977",
+        "url": "https://youtu.be/yvaydqHGot8",
+        "thumb": "https://img.youtube.com/vi/yvaydqHGot8/hqdefault.jpg"
+      },
+      {
+        "title": "E Gismonti Frevo /arr.S.Assad/",
+        "url": "https://youtu.be/vUq1tQczn_g",
+        "thumb": "https://img.youtube.com/vi/vUq1tQczn_g/hqdefault.jpg"
+      },
+      {
+        "title": "Ortega Guitars Artist Javier Reyes performs Suspiro with his 8-String Classical Guitar",
+        "url": "https://youtu.be/4-JfPkV74mc",
+        "thumb": "https://img.youtube.com/vi/4-JfPkV74mc/hqdefault.jpg"
+      },
+      {
+        "title": "Douglas Lilburn | Canzona (Flores del mar) | Viktor van Niekerk, 10-string guitar",
+        "url": "https://youtu.be/pypl-dKDF2M",
+        "thumb": "https://img.youtube.com/vi/pypl-dKDF2M/hqdefault.jpg"
+      },
+      {
+        "title": "Baden Powell - Prelude in A minor",
+        "url": "https://youtu.be/MVcz8IP3Ln4",
+        "thumb": "https://img.youtube.com/vi/MVcz8IP3Ln4/hqdefault.jpg"
+      },
+      {
+        "title": "Eduardo Abreu - Estude 1 de Heitor Villa Lobos",
+        "url": "https://youtu.be/HFC8HZM99CE",
+        "thumb": "https://img.youtube.com/vi/HFC8HZM99CE/hqdefault.jpg"
+      },
+      {
+        "title": "Monomyth Playthrough!",
+        "url": "https://youtu.be/tBQkdpHhAoE",
+        "thumb": "https://img.youtube.com/vi/tBQkdpHhAoE/hqdefault.jpg"
       }
     ]
   }
