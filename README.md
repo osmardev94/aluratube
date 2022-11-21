@@ -9,8 +9,6 @@ O **AluraTube** é uma plataforma semelhante ao YouTube onde podemos colocar nos
 Esse projeto está sendo desenvolvido em uma imersão da [**Alura**](https://www.alura.com.br) voltada para iniciantes em React com foco em Next.js. O projeto está sendo desenvolvido sob a orientação do instrutor [Mario Souto](https://github.com/omariosouto) com participação da desenvolvedora [Nayanne Lopes](https://github.com/NayanneBatista) e do CEO da Alura, [Paulo Silveira](https://github.com/peas).
 
 <!-- prettier-ignore -->
-| 🪧 Vitrine. Dev |     |
-| -------------- | --- |
 | 🏷️ Nome        | **AluraTube** |
 | 💻 Tecnologias | React, Next, Styled-Components, Radix UI, Supabase |
 | 🚀 URL         | [https://aluratube-beige-nu.vercel.app/](https://aluratube-beige-nu.vercel.app/) |
